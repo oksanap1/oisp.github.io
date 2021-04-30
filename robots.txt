@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /index.html
+Host: oisp.ru
+Sitemap: https://oisp.ru/sitemap.xml
